@@ -1,0 +1,13 @@
+1.
+In adaptive threshold, the algorithm calculate the threshold for a small regions of the image. 
+
+The band threshold take the upper band and lower band, which only shows limited range of color
+scalar of the images.
+
+The binary threshold only shows black and white by deviding equally the range of colors.
+
+The semi threshold takes the extreme value from the high value and low value.
+
+2. The output results are too simple, which may not be apllied to some complicated cases.
+
+3.Adaptive threshold is better for using images with varying illumination
