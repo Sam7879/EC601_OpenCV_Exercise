@@ -1,0 +1,11 @@
+1. Take "baboon.jpg" as example, The output images are save in this fold.
+
+2.
+('RGB part', array([102, 165, 156], dtype=uint8))
+('HSV part', array([ 34,  97, 165], dtype=uint8))
+('YCC part:', array([155, 129,  98], dtype=uint8))
+
+
+RGB: each channel ranges from 0-255.
+HSV: the H channel ranges from 0-180 and S and V channel range from 0-255.
+YCbCr: each channel ranges from 0-255.
